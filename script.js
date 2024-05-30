@@ -10,3 +10,21 @@ function add()
     const p_select = document.querySelector("p");
     p_select.textContent += "+"
 }
+
+function subtract()
+{
+    const p_select = document.querySelector("p");
+    p_select.textContent += "+"
+}
+
+function multiply()
+{
+    const p_select = document.querySelector("p");
+    p_select.textContent += "+"
+}
+
+function divide()
+{
+    const p_select = document.querySelector("p");
+    p_select.textContent += "+"
+}
